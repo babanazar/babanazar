@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+![visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fbabanazar&label=visitors&query=value&color=blue)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=babanazar&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babanazar&hide=jupyter%20notebook,java" />
+</a>
+
+
+[![LinkedId](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/babanazar/)
+
+
 <!--
 **babanazar/babanazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
