@@ -6,7 +6,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=babanazar&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babanazar&langs_count=8,&hide=html,c%2B%2B" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babanazar&langs_count=4,&hide=html,c%2B%2B" />
 </a>
 
 
